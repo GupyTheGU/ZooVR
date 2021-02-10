@@ -11,3 +11,5 @@ Proyecto en equipo hecho en Unity para la asignatura de Realidad Virtual.
 ![](https://media.discordapp.net/attachments/785998608116744202/809139815063879690/unknown.png?width=894&height=559)
 ![](https://media.discordapp.net/attachments/785998608116744202/809140834788311080/unknown.png?width=894&height=559)
 ![](https://media.discordapp.net/attachments/785998608116744202/809142222188576828/unknown.png?width=894&height=559)
+![](https://media.discordapp.net/attachments/785998608116744202/809144928504512592/unknown.png?width=960&height=559)
+![](https://media.discordapp.net/attachments/785998608116744202/809145027384180816/unknown.png?width=1080&height=332)
